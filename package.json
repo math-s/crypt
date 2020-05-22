@@ -1,0 +1,24 @@
+{
+  "name": "cryp",
+  "version": "1.0.0",
+  "description": "cryptography with vigenere cipher",
+  "main": "tests.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/math-s/crypt.git"
+  },
+  "keywords": [
+    "vigenere",
+    "cipher",
+    "crypto"
+  ],
+  "author": "Matheus Silva",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/math-s/crypt/issues"
+  },
+  "homepage": "https://github.com/math-s/crypt#readme"
+}

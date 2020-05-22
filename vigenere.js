@@ -18,7 +18,6 @@ function makeKeyStream(key,message){
 }
 
 function encryption(key, message){
-    console.log("\nENCRYPTING...");
     var message = message.toUpperCase();
     var keyStream = makeKeyStream(key, message).toUpperCase();
     var messageEncrypted = "";
