@@ -1,8 +1,8 @@
 {
-  "name": "cryp",
+  "name": "cryp-math-s",
   "version": "1.0.0",
   "description": "cryptography with vigenere cipher",
-  "main": "tests.js",
+  "main": "vigenere.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
